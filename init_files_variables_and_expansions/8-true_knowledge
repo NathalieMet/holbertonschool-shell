@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE="$((127+1))"
+TRUEKNOWLEDGE="echo $((127+1))"
