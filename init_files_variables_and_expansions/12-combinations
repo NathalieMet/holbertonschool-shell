@@ -1,2 +1,2 @@
-lq#!/bin/bash
+#!/bin/bash
 echo {a..z}-{z..a} | tr '[:space:]' '/n' | tr 'o-o'
